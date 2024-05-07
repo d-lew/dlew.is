@@ -1,4 +1,4 @@
-name: Deploy dlew.is
+name: Deploy
 
 on:
   push:
