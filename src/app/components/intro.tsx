@@ -1,7 +1,7 @@
 export function Intro() {
   return (
     <div>
-      <h1 className="text-6xl">
+      <h1 className="text-5xl">
         Hi 👋 I&#39;m{" "}
         <span className="bg-gradient-to-r from-blue-600 to-violet-600 bg-clip-text text-transparent font-bold">
           dlew
