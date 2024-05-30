@@ -2,6 +2,7 @@ export interface Project {
   title: string;
   description?: string;
   links?: Link[];
+  isCurrent?: boolean;
 }
 
 export interface Link {
